@@ -12,6 +12,7 @@ class ViewController: UIViewController {
 
     @IBAction func buttonClicked(_ sender: Any) {
         print("clicked")
+        print("새로운 문자열 추가")
         
     }
     
